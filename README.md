@@ -20,7 +20,7 @@ Welcome to the experiment! This guide is a work in progress starting March 4th, 
 ### Roadmap to v1 of this Guide:
 
 * [x] ~~Onboarding and Catalyst Funds distribution~~
-* [ ] Finalize v1 Off Grid Node materials list&#x20;
+* [ ] Finalize v1 Off Grid Node&#x20;
   * [ ] Updated Raspberry Pi materials list used - from Armada Alliance's guide.
   * [ ] Node Enclosure materials list
   * [ ] Build Enclosure
