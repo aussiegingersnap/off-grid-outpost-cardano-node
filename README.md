@@ -21,16 +21,17 @@ Welcome to the experiment! This guide is a work in progress starting March 4th, 
 
 * [x] ~~Onboarding and Catalyst Funds distribution~~
 * [ ] Finalize v1 Off Grid Node&#x20;
-  * [ ] Updated Raspberry Pi materials list used - from Armada Alliance's guide.
+  * [x] Prototype Enclosure with Pi deployed
+  * [x] Updated Raspberry Pi materials list used - from Armada Alliance's guide.
   * [ ] Node Enclosure materials list
   * [ ] Build Enclosure
     * [ ] Materials Ordered
     * [ ] Enclosure Assembled
-    * [ ] Pi Node Setup&#x20;
+    * [x] Pi Node Setup&#x20;
     * [ ] Node & Enclosure Deployed
   * [ ] Video Walkthrough&#x20;
     * [ ] Edited & Uploaded to YouTube
   * [ ] Data Exports
-    * [ ] Define Data to record
+    * [x] Define Data to record
     * [ ] Automated export to csv and upload to Github&#x20;
   * [ ] Project Final Report via Catalyst Town Hall & Blog Post Recap
